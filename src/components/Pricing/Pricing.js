@@ -33,7 +33,7 @@ const Pricing = () => {
                   <GiRock />
                 </PricingCardIcon>
                 <PricingCardPlan>Starter Pack</PricingCardPlan>
-                <PricingCardCost>$99.99</PricingCardCost>
+                <PricingCardCost>$49.99</PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
                   <PricingCardFeature>100 New Users</PricingCardFeature>
@@ -48,8 +48,8 @@ const Pricing = () => {
                 <PricingCardIcon>
                   <GiCrystalBars />
                 </PricingCardIcon>
-                <PricingCardPlan>Gold Rush</PricingCardPlan>
-                <PricingCardCost>$299.99</PricingCardCost>
+                <PricingCardPlan>Reguler</PricingCardPlan>
+                <PricingCardCost>$99.99</PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
                   <PricingCardFeature>1000 New Users</PricingCardFeature>
@@ -64,8 +64,8 @@ const Pricing = () => {
                 <PricingCardIcon>
                   <GiCutDiamond />
                 </PricingCardIcon>
-                <PricingCardPlan>Diamond Kings</PricingCardPlan>
-                <PricingCardCost>$999.99</PricingCardCost>
+                <PricingCardPlan>Premium</PricingCardPlan>
+                <PricingCardCost>$199.99</PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
                   <PricingCardFeature>Unlimited Users</PricingCardFeature>
